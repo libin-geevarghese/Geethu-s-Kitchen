@@ -1,0 +1,182 @@
+.navbar.bg-brown {
+  background-color: #502302;
+}
+
+.nav-item {
+  background-color: #502302;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px;
+  display: flex;
+}
+
+.nav-item:hover {
+  background-color: rgb(186, 136, 51);
+  border-radius: 0px 25px;
+  width: max-content;
+  padding: 10px;
+  display: flex;
+}
+
+#home {
+  background: black;
+  padding-top: 30%;
+  text-align: center;
+  background-color: black;
+  background-image: url("https://img.freepik.com/premium-psd/chocolate-cake-facebook-cover-banner-template-restaurant-promotion_123605-1183.jpg?w=1380");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+}
+
+#products {
+  background: white;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 100px;
+  text-align: center;
+}
+#cakes {
+  background: white;
+  padding: 100px;
+  text-align: center;
+}
+
+#quotes {
+  text-align: center;
+  background: #502302;
+  color: white;
+  padding: 25px;
+  height: auto;
+  font-family: "Tangerine", serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+#chef {
+  background: #502302;
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+#contact {
+  background: white;
+  padding: 100px 0;
+  text-align: center;
+}
+
+i {
+  margin-top: 25px;
+  color: #502302;
+}
+#footer {
+  background-color: #502302;
+}
+html {
+  background-color: #502302;
+}
+
+.sectionhead {
+  color: #502302;
+  text-align: center;
+  font-size: 4rem;
+  font-family: "Tangerine", serif;
+
+  font-weight: bolder;
+}
+
+.sectionbody {
+  padding: 20px;
+  margin: 20px;
+}
+
+#box1 {
+  max-width: 500px;
+}
+
+#deliverynote {
+  font-size: 0.6em;
+}
+.col-md-6 {
+  align-items: center; /* aligns child elements vertically in the center */
+  justify-content: center; /* aligns child elements horizontally in the center */
+  height: auto; /* set the height of the container as required */
+}
+
+h1 {
+  color: #502302;
+  font-family: "Dancing Script", serif;
+}
+
+h2 {
+  color: #502302;
+  font-family: "Dancing Script", serif;
+}
+
+h3 {
+  color: #502302;
+  font-family: "Dancing Script", serif;
+}
+h4 {
+  color: #502302;
+  font-family: "Dancing Script", serif;
+}
+
+h5 {
+  color: #502302;
+  font-family: "Dancing Script", serif;
+}
+
+h6 {
+  color: #502302;
+  font-family: "Dancing Script", serif;
+}
+
+.btn {
+  background-color: #502302;
+  color: white;
+  font-weight: bold;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.btn:hover {
+  background-color: rgb(186, 136, 51);
+}
+
+.sectionhead2 {
+  color: rgb(141, 122, 16);
+  font-family: "Dancing Script", serif;
+  font-size: 3em;
+}
+.chefname {
+  font-family: "Lobster", serif;
+  color: rgb(252, 238, 183);
+  font-weight: lighter;
+  font-size: 2em;
+}
+.chef_img {
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  border: 5px solid white;
+}
+.chef_icons {
+  display: inline-flex;
+  color: white;
+}
+
+.social {
+  padding: 4px;
+  margin: 4px;
+}
+
+#geethu1 {
+  font-family: "Dancing Script", serif;
+  font-size: larger;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin: 10px;
+  text-align: justify;
+  text-align-last: center;
+}
