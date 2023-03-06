@@ -86,6 +86,10 @@ html {
 .sectionbody {
 }
 
+.sectionbody3 {
+  margin: 5%;
+}
+
 #box1 {
   max-width: 500px;
 }
