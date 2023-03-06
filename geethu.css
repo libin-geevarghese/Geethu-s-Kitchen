@@ -31,14 +31,14 @@
 
 #products {
   background: white;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
   padding-top: 100px;
   text-align: center;
 }
 #cakes {
   background: white;
-  padding: 100px;
+  padding: 50px;
   text-align: center;
 }
 
