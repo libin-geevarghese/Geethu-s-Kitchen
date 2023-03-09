@@ -23,20 +23,24 @@
   padding-top: 30%;
   text-align: center;
   background-color: black;
-  background-image: url("https://img.freepik.com/premium-psd/chocolate-cake-facebook-cover-banner-template-restaurant-promotion_123605-1183.jpg?w=1380");
+  background-image: url("assets/img/banner.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
+  height: 700px;
+  align-items: center;
+  justify-content: center;
 }
 
 #products {
   background: white;
-
   padding-top: 100px;
+
   text-align: center;
 }
 #cakes {
   background: white;
+  margin-top: 100px;
 
   text-align: center;
 }
@@ -69,6 +73,7 @@ i {
 }
 #footer {
   background-color: #502302;
+  color: white;
 }
 html {
   background-color: #502302;
@@ -83,11 +88,14 @@ html {
   font-weight: bolder;
 }
 
-.sectionbody {
-}
-
 .sectionbody3 {
   margin: 5%;
+  text-align: justify;
+  text-align-last: center;
+}
+.sectionbody {
+  text-align: justify;
+  text-align-last: center;
 }
 
 #box1 {
@@ -180,4 +188,35 @@ h6 {
   margin: 10px;
   text-align: justify;
   text-align-last: center;
+}
+
+.dev {
+  color: rgb(230, 215, 215);
+  text-decoration: none;
+}
+
+.dev:hover {
+  background-color: rgb(186, 136, 51);
+  color: white;
+  font-size: larger;
+  border-radius: 0px 25px;
+  padding: 10px;
+}
+
+.footer {
+  color: rgb(189, 189, 157);
+  font-size: small;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.freepik {
+  text-decoration: none;
+  color: rgb(189, 189, 157);
+}
+
+@media (max-width: 767px) {
+  #home {
+    height: 300px;
+  }
 }
