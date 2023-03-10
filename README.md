@@ -1,8 +1,9 @@
 # Geethu-s-Kitchen
 Static Website with Bootstrap for Geethu Bakery.
+*********
 
 Feature as per requirement
-******
+
 *responsive with Bootstrap
 
 *Easy to maintain as no direct e-commerece in site
