@@ -1,5 +1,12 @@
 # Geethu-s-Kitchen
 Static Website with Bootstrap for Geethu Bakery.
-No Direct E-Commerece but link to whatsapp business so that easy to maintain in future
+
+Feature as per requirement
+******
+responsive with Bootstrap
+Easy to maintain as no direct e-commerece in site
+buttons with link to whatsapp business and feedback email
+chocolate theme
+
 
 preview : https://htmlpreview.github.io/?https://github.com/libin-geevarghese/Geethu-s-Kitchen/blob/main/geethu.html
