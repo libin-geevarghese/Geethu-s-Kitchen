@@ -4,8 +4,11 @@ Static Website with Bootstrap for Geethu Bakery.
 Feature as per requirement
 ******
 *responsive with Bootstrap
+
 *Easy to maintain as no direct e-commerece in site
+
 *buttons with link to whatsapp business and feedback email
+
 *chocolate theme
 
 
